@@ -1,4 +1,4 @@
-package com.blackwhite.xenia;
+package it.blackwhitestudio.xenia;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

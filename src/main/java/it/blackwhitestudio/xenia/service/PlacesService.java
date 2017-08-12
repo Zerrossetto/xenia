@@ -1,11 +1,10 @@
-package com.blackwhite.xenia.service;
+package it.blackwhitestudio.xenia.service;
 
 import org.bson.types.ObjectId;
 import org.springframework.stereotype.Service;
 
-import com.blackwhite.xenia.domain.Place;
-import com.blackwhite.xenia.domain.data.mongodb.PlacesRepository;
-
+import it.blackwhitestudio.xenia.domain.Place;
+import it.blackwhitestudio.xenia.domain.data.mongodb.PlacesRepository;
 import lombok.AllArgsConstructor;
 import reactor.core.publisher.Mono;
 import reactor.core.publisher.Flux;

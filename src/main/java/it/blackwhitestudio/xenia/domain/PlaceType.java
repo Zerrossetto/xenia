@@ -1,4 +1,4 @@
-package com.blackwhite.xenia.domain;
+package it.blackwhitestudio.xenia.domain;
 
 public enum PlaceType {
 	HOTEL, RESTAURANT;

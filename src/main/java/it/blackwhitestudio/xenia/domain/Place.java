@@ -1,4 +1,4 @@
-package com.blackwhite.xenia.domain;
+package it.blackwhitestudio.xenia.domain;
 
 import org.bson.types.ObjectId;
 import org.springframework.data.annotation.Id;

@@ -1,4 +1,4 @@
-package com.blackwhite.xenia.api;
+package it.blackwhitestudio.xenia.api;
 
 import org.junit.Before;
 import org.junit.Test;

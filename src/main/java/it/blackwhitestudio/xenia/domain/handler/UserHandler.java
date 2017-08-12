@@ -1,4 +1,4 @@
-package com.blackwhite.xenia.domain.handler;
+package it.blackwhitestudio.xenia.domain.handler;
 
 import org.springframework.http.MediaType;
 import org.springframework.stereotype.Component;

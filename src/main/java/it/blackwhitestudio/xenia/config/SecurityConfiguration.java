@@ -1,4 +1,4 @@
-package com.blackwhite.xenia.config;
+package it.blackwhitestudio.xenia.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

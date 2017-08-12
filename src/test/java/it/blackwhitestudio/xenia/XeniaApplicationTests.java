@@ -1,4 +1,4 @@
-package com.blackwhite.xenia;
+package it.blackwhitestudio.xenia;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
