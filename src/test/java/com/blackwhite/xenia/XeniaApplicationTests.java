@@ -12,5 +12,4 @@ public class XeniaApplicationTests {
 	@Test
 	public void contextLoads() {
 	}
-
 }
