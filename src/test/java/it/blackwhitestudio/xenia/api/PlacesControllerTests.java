@@ -34,7 +34,6 @@ public class PlacesControllerTests {
 	public void setup() {
 		client = WebTestClient
 				.bindToApplicationContext(context)
-				//.webFilter(mutator)
 				.configureClient()
 				.baseUrl(String.format("http://localhost:%d/", port))
 				.build();
